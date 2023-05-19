@@ -21,3 +21,11 @@ Uso Tanstack Query (React Query) tanstack.com
 ```
 npm install @tanstack/react-query -E
 ```
+
+Referencias
+
+Prueba técnica de React con TypeScript
+https://www.twitch.tv/videos/1792623213
+
+React Query + Paginación + Infinite Scroll
+https://www.twitch.tv/videos/1797984028
